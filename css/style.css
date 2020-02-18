@@ -1,10 +1,13 @@
+html, body {
+	margin:50px auto;
+	box-sizing: border-box;
+	background: #E6CCA7ed;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 1400px;
+}
 .clearfix {
     width: 100%;
     clear: both;
-}
-html {
-	background: #E6CCA7ed;
-	font-family: Arial, Helvetica, sans-serif;
 }
 header {
 	background-color: #F7F7F7;
@@ -37,7 +40,8 @@ main {
 	padding: 12px;
 	margin: 12px;
 	float: left;
-	width: 30%;
+	width: 400px;
+	height: 300px;
 }
 footer {
 	background-color: #F7F7F7;
