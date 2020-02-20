@@ -34,7 +34,13 @@ main {
 	padding: 12px;
 	margin: 12px;
 	width: 400px;
-	height: 400px;
+	height: 320px;
+	position: relative;
+}
+h2 {
+	position: absolute;
+	top: 10px;
+	left: 20px;
 }
 footer {
 	background-color: #F7F7F7;
