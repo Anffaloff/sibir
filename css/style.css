@@ -21,7 +21,7 @@ main {
 	border: 4px double black;
 	margin-top: 5px;
 }
-.product-card-box, .main-menu{
+.product-card-box, .main-menu, .item-div{
 	border: 1px solid	red;
 	margin: 3px;
 	display: flex;
@@ -33,17 +33,20 @@ main {
 	border: 1px solid rgb(76, 10, 231);
 	margin: 10px;
 }
-.menu-item-img, .product-card-img {
+.menu-item-img, .product-card-img, .item-img{
 	width: 400px;
 	height: 300px;
 }
-.product-card, .menu-item {
+.product-card, .menu-item, .item{
 	border: 1px solid rgb(29, 231, 10);
 	width: 400px;
 	height: 300px;
 	margin: 0px;
 	padding: 0px;
 	position: relative;
+}
+.item {
+	float: left;
 }
 h2 {
 	position: absolute;
