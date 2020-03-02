@@ -4,7 +4,7 @@
 	/* box-sizing: border-box; */
 }
 html, body {
-	margin:50px auto;
+	margin:0px auto;
 	/* box-sizing: border-box; */
 	background: #E6CCA7ed;
 	font-family: Arial, Helvetica, sans-serif;
@@ -12,22 +12,25 @@ html, body {
 }
 header {
 	background-color: #F7F7F7;
-	border: 4px double black;
+	/* border: 4px double black; */
+	height: 100%;
+	padding: 0px 10px;
 	display: flex;
-	justify-content: center; */
-	align-items: stretch;
+	justify-content: space-between;
+	align-items: center;
 	flex-wrap: wrap;
 }
 .logo {
-	/* height: 200px;
-	width: 200px; */
-	/* float: left; */
+	height: 150px;
+	width: 150px;
 }
 .main-tagline {
 	background-color: #F7F7F7;
-	font-family: 'Times New Roman', Times, serif;
-	border: 1px solid black;
-	padding: 10px;
+	color: #FF9900;
+	letter-spacing: 1px;
+	/* font-family: 'Times New Roman', Times, serif; */
+	/* border: 1px solid black; */
+	/* padding: 20px 0px 0px; */
 	margin: 10px;
 }
 main {
