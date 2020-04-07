@@ -5,6 +5,9 @@
 body {
     background-image: url(../img/main-background.jpg);
 }
+.honey  {
+    background-image: url(../img/bg-honey.jpg);
+}
 .container {
     background-color: blanchedalmond;
     margin-top: 10px;
