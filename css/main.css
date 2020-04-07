@@ -3,10 +3,14 @@
     height: 90px;
 }
 body {
-    background-image: url(../img/main-background.jpg);
+    background: url(../img/main-background.jpg);
+    background-size: cover;
+    background-attachment:fixed;
 }
 .honey  {
-    background-image: url(../img/bg-honey.jpg);
+    background: url(../img/bg-honey.jpg);
+    background-size: cover;
+    background-attachment:fixed;
 }
 .container {
     background-color: blanchedalmond;
