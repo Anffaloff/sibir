@@ -4,12 +4,16 @@
 }
 body {
     background: url(../img/main-background.jpg);
-    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-attachment: fixed;
 }
 .honey  {
     background: url(../img/bg-honey.jpg);
-    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     background-attachment: fixed;
 }
 .container {
