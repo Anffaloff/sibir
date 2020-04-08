@@ -34,16 +34,16 @@ body {
 .main-menu {
     height: 150px;
 }
-.opacity-9 {
+/* .opacity-9 {
     background: rgba(241, 221, 194, 0.9);
 }
 .opacity-8 {
     background: rgba(241, 221, 194, 0.8);
-}
+} */
 .opacity-7 {
     background: rgba(241, 221, 194, 0.7);
 }
-.opacity-6 {
+/* .opacity-6 {
     background: rgba(241, 221, 194, 0.6);
 }
 .opacity-5 {
@@ -57,7 +57,7 @@ body {
 }
 .opacity-2 {
     background: rgba(241, 221, 194, 0.2);
-}
+} */
 .main-menu:hover {
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
