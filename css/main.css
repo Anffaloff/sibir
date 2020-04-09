@@ -16,6 +16,20 @@ body {
     -o-background-size: cover;
     background-attachment: fixed;
 }
+.candy  {
+    background: url(../img/bg-candy.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+}
+.ivan-tea  {
+    background: url(../img/bg-ivan-tea.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+}
 .container {
     background-color: blanchedalmond;
     margin-top: 10px;
