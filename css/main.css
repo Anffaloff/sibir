@@ -79,6 +79,10 @@ body {
     position:relative;
     padding: 0;
 }
+.card {
+    margin-bottom: 10px;
+    /* margin: 10px; */
+}
 .bg-dark-9 {
     background: rgba(241, 221, 194, 0.9) !important;
 }
