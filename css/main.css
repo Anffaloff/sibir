@@ -9,21 +9,56 @@ body {
     -o-background-size: cover;
     background-attachment: fixed;
 }
-.honey  {
+.bg-berries {
+    background: url(../img/bg-berries.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+}
+.bg-honey  {
     background: url(../img/bg-honey.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-attachment: fixed;
 }
-.candy  {
+.bg-candy  {
     background: url(../img/bg-candy.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-attachment: fixed;
 }
-.ivan-tea  {
+.bg-cedar {
+    background: url(../img/bg-cedar.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+}
+.bg-chocolate{
+    background: url(../img/bg-chocolate.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+}
+.bg-cone  {
+    background: url(../img/bg-cone.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+}
+.bg-gift {
+    background: url(../img/bg-gift.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-attachment: fixed;
+}
+.bg-ivan-tea  {
     background: url(../img/bg-ivan-tea.jpg);
     -webkit-background-size: cover;
     -moz-background-size: cover;
