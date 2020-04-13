@@ -213,6 +213,10 @@ body {
     /* opacity: 0.9;
     z-index: 10; */
 }
+.button {
+    padding: 0;
+    background: none;
+}
 p {
     text-align: center;
     font-size: calc(0.5rem + 6 * (100vw - 320px) / 880);
