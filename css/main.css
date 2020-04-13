@@ -204,7 +204,8 @@ body {
     height: 100%;
 }
 .bg-black {
-    background: black;
+    background: rgb(52, 58, 64);
+    border-radius: .25rem;
 }
 .menu-name {
     margin: 30px auto;
