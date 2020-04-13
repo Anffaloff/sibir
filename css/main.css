@@ -204,7 +204,7 @@ body {
     height: 100%;
 }
 .bg-black {
-    background: rgb(52, 58, 64);
+    background: rgba(52, 58, 64, 0.7);
     border-radius: .25rem;
 }
 .menu-name {
