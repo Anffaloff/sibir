@@ -113,9 +113,87 @@ body {
 }
 .bg-dark-opacity {
     background: rgba(52, 58, 64, 0.3) !important;
- }
-.honey-bg-dark-opacity {
+}
+.honey-bg-dark-opacity-9 {
+    background: rgba(52, 58, 64, 0.9) !important;
+}
+.honey-bg-dark-opacity-8 {
+    background: rgba(52, 58, 64, 0.8) !important;
+}
+.honey-bg-dark-opacity-7 {
+    background: rgba(52, 58, 64, 0.7) !important;
+}
+.honey-bg-dark-opacity-6 {
+    background: rgba(52, 58, 64, 0.6) !important;
+}
+.honey-bg-dark-opacity-5 {
+    background: rgba(52, 58, 64, 0.5) !important;
+}
+.honey-bg-dark-opacity-4 {
+    background: rgba(52, 58, 64, 0.4) !important;
+}
+.honey-bg-dark-opacity-3 {
+    background: rgba(52, 58, 64, 0.3) !important;
+}
+.honey-bg-dark-opacity-2 {
+    background: rgba(52, 58, 64, 0.2) !important;
+}
+.honey-bg-dark-opacity-1 {
+    background: rgba(52, 58, 64, 0.1) !important;
+}
+.honey-bg-pink-opacity-9 {
+    background: rgba(241, 221, 194, 0.9) !important;
+}
+.honey-bg-pink-opacity-8 {
+    background: rgba(241, 221, 194, 0.8) !important;
+}
+.honey-bg-pink-opacity-7 {
+    background: rgba(241, 221, 194, 0.7) !important;
+}
+.honey-bg-pink-opacity-6 {
+    background: rgba(241, 221, 194, 0.6) !important;
+}
+.honey-bg-pink-opacity-5 {
+    background: rgba(241, 221, 194, 0.5) !important;
+}
+.honey-bg-pink-opacity-4 {
+    background: rgba(241, 221, 194, 0.4) !important;
+}
+.honey-bg-pink-opacity-3 {
     background: rgba(241, 221, 194, 0.3) !important;
+}
+.honey-bg-pink-opacity-2 {
+    background: rgba(241, 221, 194, 0.2) !important;
+}
+.honey-bg-pink-opacity-1 {
+    background: rgba(241, 221, 194, 0.1) !important;
+}
+.honey-bg-white-opacity-9 {
+    background: rgba(255, 255, 255, 0.9) !important;
+}
+.honey-bg-white-opacity-8 {
+    background: rgba(255, 255, 255, 0.8) !important;
+}
+.honey-bg-white-opacity-7 {
+    background: rgba(255, 255, 255, 0.7) !important;
+}
+.honey-bg-white-opacity-6 {
+    background: rgba(255, 255, 255, 0.6) !important;
+}
+.honey-bg-white-opacity-5 {
+    background: rgba(255, 255, 255, 0.5) !important;
+}
+.honey-bg-white-opacity-4 {
+    background: rgba(255, 255, 255, 0.4) !important;
+}
+.honey-bg-white-opacity-3 {
+    background: rgba(255, 255, 255, 0.3) !important;
+}
+.honey-bg-white-opacity-2 {
+    background: rgba(255, 255, 255, 0.2) !important;
+}
+.honey-bg-white-opacity-1 {
+    background: rgba(255, 255, 255, 0.1) !important;
 }
 .no-background {
     background: none;
