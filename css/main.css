@@ -207,6 +207,10 @@ body {
     background: rgba(52, 58, 64, 0.7);
     border-radius: .25rem;
 }
+.bg-black-8 {
+    background: rgba(52, 58, 64, 0.8);
+    border-radius: .25rem;
+}
 .menu-name {
     margin: 30px auto;
     text-align: center;
