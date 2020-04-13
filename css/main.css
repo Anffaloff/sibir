@@ -114,7 +114,7 @@ body {
 .bg-dark-opacity {
     background: rgba(52, 58, 64, 0.3) !important;
 }
-.honey-bg-dark-opacity-9 {
+/* .honey-bg-dark-opacity-9 {
     background: rgba(52, 58, 64, 0.9) !important;
 }
 .honey-bg-dark-opacity-8 {
@@ -125,11 +125,11 @@ body {
 }
 .honey-bg-dark-opacity-6 {
     background: rgba(52, 58, 64, 0.6) !important;
-}
+} */
 .honey-bg-dark-opacity-5 {
     background: rgba(52, 58, 64, 0.5) !important;
 }
-.honey-bg-dark-opacity-4 {
+/* .honey-bg-dark-opacity-4 {
     background: rgba(52, 58, 64, 0.4) !important;
 }
 .honey-bg-dark-opacity-3 {
@@ -194,7 +194,7 @@ body {
 }
 .honey-bg-white-opacity-1 {
     background: rgba(255, 255, 255, 0.1) !important;
-}
+} */
 .no-background {
     background: none;
 }
