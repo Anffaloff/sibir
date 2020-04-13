@@ -114,6 +114,9 @@ body {
 .bg-dark-opacity {
     background: rgba(52, 58, 64, 0.3) !important;
  }
+.honey-bg-dark-opacity {
+    background: rgba(241, 221, 194, 0.3) !important;
+}
 .no-background {
     background: none;
 }
