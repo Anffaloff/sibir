@@ -110,6 +110,8 @@ body {
 }
 .card {
     margin-bottom: 10px;
+    border: 1px solid rgb(241, 221, 194);
+    /* margin-left: 1px; */
     /* margin: 10px; */
 }
 .bg-dark-opacity {
