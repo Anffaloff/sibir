@@ -8,6 +8,7 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-attachment: fixed;
+    /* padding: 2em; */
 }
 .bg-berries {
     background: url(../img/bg-berries.jpg);
@@ -220,7 +221,11 @@ body {
 }
 .button {
     padding: 0;
+    margin-top: 0px;
     background: none;
+    position: sticky;
+    bottom: 1px;
+    top: auto;
 }
 p {
     text-align: center;
