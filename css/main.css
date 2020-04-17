@@ -236,6 +236,10 @@ p {
     text-align: center;
     font-size: calc(0.5rem + 6 * (100vw - 320px) / 880);
 }
+.tel {
+    text-align: center;
+    font-size: calc(0.5rem + 6 * (100vw - 320px) / 880);
+}
 a:hover {
     text-decoration: none;
 }
