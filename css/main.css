@@ -268,11 +268,11 @@ p {
     font-size: calc(0.5rem + 6 * (100vw - 320px) / 880);
 }
 a {
-    color:rgba(52, 58, 64, 0.7);
+    color:rgba(0, 0, 0, 0.7);
 }
 a:hover {
     text-decoration: none;
-    color:rgba(52, 58, 64, 0.9);
+    color:rgba(0, 0, 0, 0.9);
 }
 .card:hover {
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
