@@ -114,6 +114,11 @@ body {
 .opacity-7 {
     background: rgba(241, 221, 194, 0.7);
 }
+.opacity-7:hover {
+    -webkit-transform: translate(-1px,-1px);
+    -moz-transform: translate(-1px,-1px);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
 .main-menu:hover {
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
