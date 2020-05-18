@@ -1,5 +1,23 @@
 .index {
     font-family: cursive;
+    color: #FFFFFF;
+	text-shadow: 
+		-0   -1px 3px #000000,
+		 0   -1px 3px #000000,
+		-0    1px 3px #000000,
+		 0    1px 3px #000000,
+		-1px -0   3px #000000,
+		 1px -0   3px #000000,
+		-1px  0   3px #000000,
+		 1px  0   3px #000000,
+		-1px -1px 3px #000000,
+		 1px -1px 3px #000000,
+		-1px  1px 3px #000000,
+		 1px  1px 3px #000000,
+		-1px -1px 3px #000000,
+		 1px -1px 3px #000000,
+		-1px  1px 3px #000000,
+		 1px  1px 3px #000000;
 }
 .candy {
     font-family: cursive;
@@ -273,11 +291,47 @@ p {
     font-size: calc(0.5rem + 6 * (100vw - 320px) / 880);
 }
 a {
-    color:rgba(0, 0, 0, 0.7);
+    /* color:rgba(0, 0, 0, 0.7); */
+    color: #FFFFFF;
+	text-shadow: 
+		-0   -1px 3px #000000,
+		 0   -1px 3px #000000,
+		-0    1px 3px #000000,
+		 0    1px 3px #000000,
+		-1px -0   3px #000000,
+		 1px -0   3px #000000,
+		-1px  0   3px #000000,
+		 1px  0   3px #000000,
+		-1px -1px 3px #000000,
+		 1px -1px 3px #000000,
+		-1px  1px 3px #000000,
+		 1px  1px 3px #000000,
+		-1px -1px 3px #000000,
+		 1px -1px 3px #000000,
+		-1px  1px 3px #000000,
+		 1px  1px 3px #000000;
 }
 a:hover {
     text-decoration: none;
-    color:rgba(0, 0, 0, 0.9);
+    /* color:rgba(0, 0, 0, 0.9); */
+    color: #FFFFFF;
+    text-shadow: 
+		-0   -1px 3px #000000,
+		 0   -1px 3px #000000,
+		-0    1px 3px #000000,
+		 0    1px 3px #000000,
+		-1px -0   3px #000000,
+		 1px -0   3px #000000,
+		-1px  0   3px #000000,
+		 1px  0   3px #000000,
+		-1px -1px 3px #000000,
+		 1px -1px 3px #000000,
+		-1px  1px 3px #000000,
+		 1px  1px 3px #000000,
+		-1px -1px 3px #000000,
+		 1px -1px 3px #000000,
+		-1px  1px 3px #000000,
+		 1px  1px 3px #000000;
 }
 .card:hover {
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
