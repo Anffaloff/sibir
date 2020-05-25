@@ -1,4 +1,4 @@
-.candy {
+/* .candy {
     font-family: cursive;
 }
 .chocolate {
@@ -21,7 +21,7 @@
 }
 .gift {
 font-family: 'Neucha', cursive;
-}
+} */
 .header__logo-div, .header__slogan  {
     /* border: 1px solid black; */
     height: 90px;
@@ -144,6 +144,10 @@ body {
     border: 1px solid rgb(241, 221, 194);
     /* margin-left: 1px; */
     /* margin: 10px; */
+}
+.card-title {
+    font-family: 'Nunito', sans-serif;
+    color: rgba(0, 0, 0, 0.7);
 }
 /* .border {
     border: 1px solid rgb(241, 221, 194)
