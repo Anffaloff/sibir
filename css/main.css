@@ -109,7 +109,7 @@ body {
     font-family: BryndanWriteBook;
     color: rgba(0, 0, 0, 0.7);    
     margin: 15px auto;
-    font-size: calc(1.2rem + 6 * (100vw - 320px) / 880);
+    font-size: calc(1.9rem + 6 * (100vw - 320px) / 880);
 }
 .main-menu {
     height: 150px;
