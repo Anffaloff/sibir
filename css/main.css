@@ -149,6 +149,9 @@ body {
     font-family: 'Nunito', sans-serif;
     color: rgba(0, 0, 0, 0.7);
 }
+.card-text {
+    font-family: 'Montserrat Alternates', sans-serif;
+}
 /* .border {
     border: 1px solid rgb(241, 221, 194)
 } */
