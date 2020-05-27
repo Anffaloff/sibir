@@ -2,6 +2,10 @@
     font-family: BryndanWriteBook;
     src: url(../fonts/BryndanWriteBook-nGPM.ttf);
 }
+@font-face {
+    font-family: Nunito-ExtraBold;
+    src: url(../fonts/Nunito-ExtraBold.ttf);
+}
 /* .candy {
     font-family: cursive;
 }
@@ -262,7 +266,7 @@ body {
 .menu-name {
     margin: 55px auto;
     text-align: center;
-    font-family: 'Nunito', sans-serif;
+    font-family: Nunito-ExtraBold;
     font-size: calc(1.2rem + 6 * (100vw - 320px) / 880);
     /* opacity: 0.9;
     z-index: 10; */
