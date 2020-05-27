@@ -6,30 +6,7 @@
     font-family: Nunito-ExtraBold;
     src: url(../fonts/Nunito-ExtraBold.ttf);
 }
-/* .candy {
-    font-family: cursive;
-}
-.chocolate {
-    font-family: 'Pangolin', cursive;
-}
-.honey {
-    font-family: 'Ubuntu Mono', monospace;
-}
-.berries {
-    font-family: 'Kosugi Maru', sans-serif;
-}
-.cedar {
-    font-family: 'Underdog', cursive;
-}
-.cone {
-    font-family: 'Sawarabi Gothic', sans-serif;
-}
-.ivan-tea {
-    font-family: 'Comfortaa', cursive;
-}
-.gift {
-font-family: 'Neucha', cursive;
-} */
+
 .header__logo-div, .header__slogan  {
     /* border: 1px solid black; */
     height: 90px;
@@ -154,7 +131,7 @@ body {
     /* margin: 10px; */
 }
 .card-title {
-    font-family: 'Nunito', sans-serif;
+    font-family: Nunito-ExtraBold;
     color: rgba(0, 0, 0, 0.7);
 }
 .card-text {
