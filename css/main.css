@@ -92,6 +92,7 @@ body {
 }
 .slogan-text {
     font-family: BryndanWriteBook;
+    color: black;
     color: rgba(0, 0, 0, 0.7);    
     margin: 15px auto;
     font-size: calc(1.9rem + 6 * (100vw - 320px) / 880);
@@ -100,6 +101,7 @@ body {
     height: 150px;
 }
 .opacity-7 {
+    background: burlywood;
     background: rgba(241, 221, 194, 0.7);
 }
 .opacity-7:hover {
@@ -134,15 +136,18 @@ body {
 }
 .card-title {
     font-family: Nunito-ExtraBold;
+    color: black;
     color: rgba(0, 0, 0, 0.7);
 }
 .card-text {
     font-family: MontserratAlternates-Medium;
 }
 .bg-dark-opacity {
+    background: gray;
     background: rgba(52, 58, 64, 0.5) !important;
 }
 .honey-bg-dark-opacity-5 {
+    background: gray;
     background: rgba(52, 58, 64, 0.5) !important;
 }
 .no-background {
@@ -154,10 +159,12 @@ body {
     height: 100%;
 }
 .bg-black {
+    background: gray;
     background: rgba(52, 58, 64, 0.7);
     border-radius: .25rem;
 }
 .bg-black-8 {
+    background: gray;
     background: rgba(52, 58, 64, 0.8);
     border-radius: .25rem;
 }
@@ -184,10 +191,12 @@ p {
     font-size: calc(0.5rem + 6 * (100vw - 320px) / 880);
 }
 a {
+    color: black;
     color: rgba(0, 0, 0, 0.7);
 }
 a:hover {
     text-decoration: none;
+    color: black;
     color: rgba(0, 0, 0, 0.7);
 }
 .card:hover {
