@@ -21,6 +21,7 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    background-size: cover;
     background-attachment: fixed;
 }
 .bg-berries {
@@ -28,6 +29,7 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    background-size: cover;
     background-attachment: fixed;
 }
 .bg-honey  {
@@ -35,6 +37,7 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    background-size: cover;
     background-attachment: fixed;
 }
 .bg-candy  {
@@ -42,6 +45,7 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    background-size: cover;
     background-attachment: fixed;
 }
 .bg-cedar {
@@ -49,6 +53,7 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    background-size: cover;
     background-attachment: fixed;
 }
 .bg-chocolate{
@@ -56,6 +61,7 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    background-size: cover;
     background-attachment: fixed;
 }
 .bg-cone  {
@@ -63,6 +69,7 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    background-size: cover;
     background-attachment: fixed;
 }
 .bg-gift {
@@ -70,6 +77,7 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    background-size: cover;
     background-attachment: fixed;
 }
 .bg-ivan-tea  {
@@ -77,6 +85,7 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    background-size: cover;
     background-attachment: fixed;
 }
 .container {
@@ -105,8 +114,10 @@ body {
     background: rgba(241, 221, 194, 0.7);
 }
 .opacity-7:hover {
-    -webkit-transform: translate(-1px,-1px);
+    /* -webkit-transform: translate(-1px,-1px);
     -moz-transform: translate(-1px,-1px);
+    -o-transform: translate(-1px,-1px); */
+    transform: translate(-1px,-1px);
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 .main-menu:hover {
@@ -121,6 +132,7 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    background-size: cover;
     background-attachment: fixed;
 }
 .bg-item-candy {
@@ -128,6 +140,7 @@ body {
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
+    background-size: cover;
     background-attachment: fixed;
 }
 .card {
