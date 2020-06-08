@@ -1,14 +1,17 @@
 @font-face {
     font-family: BryndanWriteBook;
-    src: url(../fonts/BryndanWriteBook-nGPM.ttf);
+    src: url(../fonts/BryndanWriteBook-nGPM.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/BryndanWriteBook-nGPM.ttf) format('truetype');
 }
 @font-face {
     font-family: Nunito-ExtraBold;
-    src: url(../fonts/Nunito-ExtraBold.ttf);
+    src: url(../fonts/Nunito-ExtraBold.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/Nunito-ExtraBold.ttf) format('truetype');
 }
 @font-face {
     font-family: MontserratAlternates-Medium;
-    src: url(../fonts/MontserratAlternates-Medium.ttf);
+    src: url(../fonts/MontserratAlternates-Medium.eot?#iefix) format('embedded-opentype'),
+         url(../fonts/MontserratAlternates-Medium.ttf) format('truetype');
 }
 .header__logo-div, .header__slogan  {
     height: 90px;
