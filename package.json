@@ -1,0 +1,26 @@
+{
+  "name": "sibir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anffaloff/sibir.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anffaloff/sibir/issues"
+  },
+  "homepage": "https://github.com/Anffaloff/sibir#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
